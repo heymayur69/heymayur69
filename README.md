@@ -108,7 +108,7 @@ No Activity tracked this Week
 
 ## 🐍 Github Contributions
 
-![snake gif](https://github.com/heymayur69/heymayur69/blob/output/github-contribution-grid-snake.gif)
+[](https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg)
 
 ## 🙋‍♂️ Connect with Me
 
