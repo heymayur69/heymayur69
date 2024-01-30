@@ -117,7 +117,7 @@ No Activity tracked this Week
 <a href = "https://www.linkedin.com/in/mayur-mane-22328922a/
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:mayurmm2004@gmail.com"><img src="https://img.icons8.com/color/344/gmail-new.png" height=48px/></a>
-<a href = "https://www.instagram.com/heymayur_69/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
+<a href = "https://www.instagram.com/heymayur69/"><img src="https://img.icons8.com/fluency/344/instagram-new.png" height=48px/></a>
 <a href = "https://twitter.com/heymayur69"><img src="https://img.icons8.com/color/344/twitter--v1.png" height=48px/></a>
 </p>
 
