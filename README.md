@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur</h1>
-<h3 align="center"> passionate Embedded Systems & VLSI Engineer from Indiaveloper from India</h3>
+<h3 align="center"> passionate Embedded Systems & VLSI Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heymayur69&label=Profile%20views&color=0e75b6&style=flat" alt="heymayur69" /> </p>
