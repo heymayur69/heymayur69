@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heymayur69&" alt="heymayur69" /></p>
 
-### 🐍 Contribution Snake
 
-![snake gif](https://github.com/heymayur69/heymayur69/blob/output/github-contribution-grid-snake.svg)
