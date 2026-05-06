@@ -17,6 +17,7 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" style="border-radius:12px;"/>
 
 <br/>
