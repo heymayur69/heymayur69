@@ -13,27 +13,33 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
 ---
 
-## 🧐 About Me
+<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=heymayur69&label=Profile%20views&color=0e75b6&style=flat" alt="heymayur69" />
-</p>
+<img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" style="border-radius:12px;"/>
 
-- 🔭 I'm currently working on **Railway Accident Prevention System**
+<br/>
 
-- 🌱 I'm currently learning **RTOS, Embedded Linux, ASIC Design Flow, VLSI Verification**
+- 🔭 Currently building &nbsp;**Railway Accident Prevention System**
+- 🌱 Mastering &nbsp;**RTOS · Embedded Linux · ASIC Design · VLSI Verification**
+- 💬 Ask me about &nbsp;**Embedded C · FreeRTOS · STM32 · ESP32 · ARM Cortex · CAN/SPI/I²C**
+- 🎓 Pursuing &nbsp;**PGCP-DESD** at **Sunbeam Institute, Pune (C-DAC)**
+- 🏛️ B.E. in &nbsp;**Electronics & Telecom Engineering — SPPU**
+- 🎯 Target &nbsp;**Firmware Engineer · RTOS Developer · Embedded Linux Engineer**
+- 📫 Reach me at &nbsp;**mayurmm2004@gmail.com**
+- ⚡ Fun fact &nbsp;**I debug hardware faster than software bugs 😄**
 
-- 💬 Ask me about **Embedded C, Verilog, RTOS, IoT, PCB Design, Microcontrollers (ESP32, STM32, ARM Cortex)**
+<br/>
 
-- 📫 How to reach me **mayurmm2004@gmail.com**
+> *"Every register matters. Every cycle counts. Build firmware that's correct, fast, and unbreakable."*
+> *"I Came, I C, I Conquered"*
 
-- ⚡ Fun fact **I can debug hardware issues faster than software bugs! 😆**
+<br/>
 
-<br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br>
+
+<br/><br/>
 
 ---
 
