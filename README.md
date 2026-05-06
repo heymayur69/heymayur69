@@ -35,57 +35,154 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 > *"Every register matters. Every cycle counts. Build firmware that's correct, fast, and unbreakable."*
 
 
-<br/>
-<br/>
-
-
 > *"I Came, I C, I Conquered"*
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
-<br/><br/>
+
 
 ---
 
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
+
 ## 🔨 Languages, Tools & Tech Stack
 
-<br>
+<br/>
 
-**Core Languages**
+### 🧠 Core Languages
 
-<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
-<a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></a>
+<p align="left">
+  <a href="https://www.cprogramming.com/"><img alt="C" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img alt="C++" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org"><img alt="Python" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.verilog.com/"><img alt="Verilog" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img alt="Assembly" height="48px" src="https://img.shields.io/badge/ASM-ARM-0091BD?style=flat-square&logo=arm&logoColor=white&labelColor=0d1117"/></a>
+</p>
 
-<br><br><br>
+<br/>
 
-**Microcontrollers & Platforms**
+### 🎛️ Microcontrollers & Embedded Platforms
 
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html" target="_blank"><img align="left" alt="STM32" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/STMicroelectronics_logo_with_tagline.svg"/></a>
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img align="left" alt="ESP32" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"/></a>
-<a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></a>
-<a href="https://www.arm.com/" target="_blank"><img align="left" alt="ARM" height="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arm.svg"/></a>
+<p align="left">
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html"><img alt="STM32" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/STMicroelectronics_logo_with_tagline.svg" style="background:#fff;padding:2px;border-radius:4px;"/></a>&nbsp;&nbsp;
+  <a href="https://www.espressif.com/"><img alt="ESP32" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.arduino.cc/"><img alt="Arduino" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.arm.com/"><img alt="ARM" height="48px" src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white&labelColor=0d1117"/></a>&nbsp;&nbsp;
+  <a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"><img alt="AVR" height="48px" src="https://img.shields.io/badge/AVR_ATmega-FF6B35?style=flat-square&logoColor=white&labelColor=0d1117"/></a>&nbsp;&nbsp;
+  <a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"/></a>
+</p>
 
-<br><br><br>
+<br/>
 
-**OS & RTOS**
+### ⚙️ RTOS & Operating Systems
 
-<a href="https://www.freertos.org/" target="_blank"><img align="left" alt="FreeRTOS" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png"/></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
+<p align="left">
+  <a href="https://www.freertos.org/"><img alt="FreeRTOS" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" style="background:#fff;padding:4px;border-radius:4px;"/></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img alt="Linux" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://ubuntu.com/"><img alt="Ubuntu" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.debian.org/"><img alt="Debian" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/></a>
+</p>
 
-<br><br><br>
+<br/>
 
-**Dev Tools**
+### 📡 Communication Protocols
 
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
-<a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"/></a>
-<a href="https://gcc.gnu.org/" target="_blank"><img align="left" alt="GCC" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"/></a>
-<a href="https://www.gnu.org/software/make/" target="_blank"><img align="left" alt="Make" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/UART-Serial_Comms-1F77B4?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SPI-4_Wire_Bus-00d4ff?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/I²C-2_Wire_Bus-0e9aff?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CAN_Bus-Automotive-E34C26?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PWM-Timer_Config-3572A5?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ADC%2FDAC-Signal_Conv-A1B612?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JTAG-Debug_Interface-FF6B35?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Modbus-Industrial-9B59B6?style=for-the-badge&labelColor=0d1117" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MQTT-IoT_Protocol-FF6B6B?style=for-the-badge&labelColor=0d1117" height="38"/>
+</p>
 
-<br><br><br>
+<br/>
+
+### 🛠️ Development & Debugging Tools
+
+<p align="left">
+  <a href="https://git-scm.com/"><img alt="Git" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.vim.org/"><img alt="Vim" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://gcc.gnu.org/"><img alt="GCC" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://cmake.org/"><img alt="CMake" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/make/"><img alt="Make" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img alt="GitHub" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32CubeIDE-HAL_Drivers-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Keil_µVision-MDK_ARM-FF6B35?style=for-the-badge&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenOCD-On_Chip_Debug-4EAA25?style=for-the-badge&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GDB_%2F_LLDB-Firmware_Debug-3572A5?style=for-the-badge&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PlatformIO-IDE_Extension-FF6B35?style=for-the-badge&logo=platformio&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/QEMU-Emulation-E34C26?style=for-the-badge&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oscilloscope-Signal_Integrity-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Logic_Analyzer-Protocol_Decode-9B59B6?style=for-the-badge&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" height="36"/>
+</p>
+
+<br/>
+
+### 🌐 IoT, Sensors & Connectivity
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LiDAR-Proximity_Sensing-4169E1?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ultrasonic-HC--SR04-4169E1?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/IR_Sensor-Obstacle_Detect-4169E1?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Accelerometer-LIS3DSH_SPI-4169E1?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DHT11%2F22-Temp_%26_Humidity-4169E1?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud_IoT-MQTT_Broker-FF6B6B?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/WiFi-ESP32_Stack-E7352B?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bluetooth-BLE_4.2-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=0d1117" height="36"/>
+</p>
+
+<br/>
+
+### 🔬 VLSI & Hardware Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-RTL_Design-9B59B6?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SystemVerilog-Verification-9B59B6?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ASIC_Flow-Synthesis_%26_P%26R-E91E63?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Testbench-UVM_Style-E91E63?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA_Flow-FF1010?style=for-the-badge&labelColor=0d1117" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Timing_Analysis-STA_Basics-FF6B35?style=for-the-badge&labelColor=0d1117" height="36"/>
+</p>
 
 ---
 
