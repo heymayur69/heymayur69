@@ -1,4 +1,4 @@
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Mayur Madhukar Mane!
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Mayur !
 
 <a href="https://linkedin.com/in/heymayur69"><img align="left" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22px"/></a>
 <a href="https://github.com/heymayur69"><img align="left" alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="22px"/></a>
