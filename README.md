@@ -22,8 +22,6 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 <img src="https://komarev.com/ghpvc/?username=heymayur69&label=Profile%20views&color=0e75b6&style=flat" alt="heymayur69" />
 </p>
 
-<br/>
-
 - 🔭 Currently building &nbsp;**Railway Accident Prevention System**
 - 🌱 Mastering &nbsp;**RTOS · Embedded Linux · ASIC Design · VLSI Verification**
 - 💬 Ask me about &nbsp;**Embedded C · FreeRTOS · STM32 · ESP32 · ARM Cortex · CAN/SPI/I²C**
