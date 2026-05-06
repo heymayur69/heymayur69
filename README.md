@@ -1,12 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mayur</h1>
-<h3 align="center"> passionate Embedded Systems & VLSI Engineer from India</h3>
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Mayur Madhukar Mane!
+
+<a href="https://linkedin.com/in/heymayur69"><img align="left" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22px"/></a>
+<a href="https://github.com/heymayur69"><img align="left" alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="22px"/></a>
+<a href="https://twitter.com/heymayur69"><img align="left" alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="22px"/></a>
+<a href="mailto:mayurmm2004@gmail.com"><img align="left" alt="email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="22px"/></a>
+
+<br/><br/>
+
+Passionate **Embedded Systems Engineer** specializing in real-time systems, firmware development, and hardware-software integration. I love diving deep into microcontrollers, protocols, and making things work at the register level. Currently pursuing **PGCP-DESD** at **Sunbeam Institute, Pune (C-DAC)**.
+
+<br/>
+
+---
+
+## 🧐 About Me
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heymayur69&label=Profile%20views&color=0e75b6&style=flat" alt="heymayur69" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=heymayur69&label=Profile%20views&color=0e75b6&style=flat" alt="heymayur69" />
+</p>
 
-- 🔭 I’m currently working on **Railway Accident Prevention System**
+- 🔭 I'm currently working on **Railway Accident Prevention System**
 
-- 🌱 I’m currently learning **RTOS, Embedded Linux, ASIC Design Flow, VLSI Verification**
+- 🌱 I'm currently learning **RTOS, Embedded Linux, ASIC Design Flow, VLSI Verification**
 
 - 💬 Ask me about **Embedded C, Verilog, RTOS, IoT, PCB Design, Microcontrollers (ESP32, STM32, ARM Cortex)**
 
@@ -14,18 +31,143 @@
 
 - ⚡ Fun fact **I can debug hardware issues faster than software bugs! 😆**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/heymayur69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heymayur69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/heymayur69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heymayur69" height="30" width="40" /></a>
-<a href="https://instagram.com/iblame_mxyur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iblame_mxyur" height="30" width="40" /></a>
-</p>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heymayur69&show_icons=true&locale=en&layout=compact" alt="heymayur69" /></p>
+## 🔨 Languages, Tools & Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heymayur69&" alt="heymayur69" /></p>
+<br>
+
+**Core Languages**
+
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
+<a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/></a>
+
+<br><br><br>
+
+**Microcontrollers & Platforms**
+
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html" target="_blank"><img align="left" alt="STM32" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/STMicroelectronics_logo_with_tagline.svg"/></a>
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img align="left" alt="ESP32" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"/></a>
+<a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></a>
+<a href="https://www.arm.com/" target="_blank"><img align="left" alt="ARM" height="42px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arm.svg"/></a>
+
+<br><br><br>
+
+**OS & RTOS**
+
+<a href="https://www.freertos.org/" target="_blank"><img align="left" alt="FreeRTOS" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png"/></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
+
+<br><br><br>
+
+**Dev Tools**
+
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
+<a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"/></a>
+<a href="https://gcc.gnu.org/" target="_blank"><img align="left" alt="GCC" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"/></a>
+<a href="https://www.gnu.org/software/make/" target="_blank"><img align="left" alt="Make" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></a>
+
+<br><br><br>
+
+---
 
 
+  ## 📊 Github Statstics & Activity
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/heymayur69/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="heymayur69's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=heymayur69&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heymayur69&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="heymayur69's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=heymayur69&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <a href="https://github.com/heymayur69/github-readme-activity-graph">
+    <img alt="heymayur69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=heymayur69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+
+
+ 
+
+
+---
+
+## 🏆 Core Competencies
+
+<div align="center">
+
+| **Domain** | **Expertise** | **Level** |
+|:---:|:---|:---:|
+| 🎛️ Microcontroller Programming | STM32, ESP32, AVR, ARM Cortex-M | ⭐⭐⭐⭐⭐ |
+| ⏰ Real-Time Systems | FreeRTOS, preemptive scheduling, IPC | ⭐⭐⭐⭐⭐ |
+| 📡 Communication Protocols | UART, SPI, I2C, CAN from scratch | ⭐⭐⭐⭐⭐ |
+| 🐧 Embedded Linux | Device drivers, kernel modules | ⭐⭐⭐⭐☆ |
+| 🔬 Hardware Debugging | Oscilloscope, signal integrity, timing | ⭐⭐⭐⭐⭐ |
+| 🧠 Low-Level Programming | Register manipulation, pointer arithmetic | ⭐⭐⭐⭐⭐ |
+| 💡 IoT & Sensors | Multi-sensor fusion, edge computing | ⭐⭐⭐⭐☆ |
+| 🔍 Problem Solving | Root cause analysis, optimization | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+## 📚 Currently Learning @ CDAC
+
+- ✅ **RTOS Internals** – Task scheduling, synchronization primitives, interrupt handling
+- ✅ **Embedded Linux** – Device drivers, kernel modules, bootloaders
+- ✅ **ASIC Design Flow** – RTL design, synthesis, place & route optimization
+- ✅ **VLSI Verification** – Testbenches, simulation, formal verification techniques
+- ✅ **Protocol Deep-Dives** – CAN, I2C, SPI, UART at hardware level
+- ✅ **Real-Time Systems** – Deterministic scheduling, priority inversion handling
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heymayur69)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heymayur69)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heymayur69)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurmm2004@gmail.com)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/heymayur69/heymayur69/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### **"From low-level bits to real-world impact"** 🚀
+
+*Transforming embedded systems expertise into safer, smarter, and more efficient solutions*
+
+</div>
