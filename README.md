@@ -220,6 +220,14 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heymayur69&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="Trophies"/>
+</p>
+
+---
+
 ## 🏆 Core Competencies
 
 <div align="center">
