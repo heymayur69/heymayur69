@@ -36,7 +36,7 @@ Passionate **Embedded Systems Engineer** specializing in real-time systems, firm
 > *"Every register matters. Every cycle counts. Build firmware that's correct, fast, and unbreakable."*
 
 
-> *"I Came, I C, I Conquered"*
+> *"I Came, I   'C', I Conquered"*
 
 <br/>
 
